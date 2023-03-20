@@ -187,15 +187,15 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
-      <div className="mt-6 header flex flex-col items-center justify-center">
+      {/* <div className="mt-6 header flex flex-col items-center justify-center">
         <h1 className=" text-[color:var(--color-primary)] text-4xl font-semibold mb-2 text-center">
           Our Team
         </h1>
         <div className="h-[0.30rem] w-12 bg-[color:var(--color-primary)] rounded-full"></div>
-      </div>
-      <div className="flex justify-evenly items-center flex-wrap mt-12">
+      </div> */}
+      {/* <div className="flex justify-evenly items-center flex-wrap mt-12">
         {allMembers}
-      </div>
+      </div> */}
     </div>
   );
 };
